@@ -17,8 +17,9 @@ Atuei por 10 meses como tecnica de informatica pelo IFS em bolsa de estudos (PBI
 </div>
 
  <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![snake gif](https://github.com/apandalima/apandalima/blob/output/github-contribution-grid-snake.svg) 
+ 
   
 </div>
 
