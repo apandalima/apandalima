@@ -12,7 +12,7 @@ Atuei por 10 meses como tecnica de informatica pelo IFS em bolsa de estudos (PBI
 	
   <div  align="center">
   <a href="https://github.com/apandalima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apandalima&show_icons=true&theme=dracula&line_height=27"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=apandalima&show_icons=true&theme=dracula&line_height=27"/>
 <!--  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apandalima&layout=compact&langs_count=7&theme=dracula&line_height=27"/>  -->
 	  
 	  
