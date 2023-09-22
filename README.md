@@ -8,7 +8,8 @@
 
 Olá me chamo Amanda tenho 22 anos, sou Técnica em Informática formado pelo Instituto Federal de Sergipe (IFS) e sou estudante do curso de Ciência da Computação pela Universidade Federal de Sergipe (UFS). 
 
-Atuei por 10 meses como tecnica de informatica pelo IFS em bolsa de estudos (PBIEX) com atualização de site e auxilio ao setor administrativo. 
+Atuei por 1 ano e meio como tecnica de informatica pelo IFS em bolsa de estudos (PBIEX) com atualização de site e auxilio ao setor administrativo. 
+Atualmente faço estágio de desevolvedora na prefeitura de São Cristóvão
 	
  <!--  <div  align="center">
   <a href="https://github.com/apandalima">
