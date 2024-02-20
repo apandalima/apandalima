@@ -1,15 +1,30 @@
 # 🍃 Amanda Lima - Tecnica em Informática 🍃
 	
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/apandalima)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/apandalima)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/apandalima/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/apandalima)
 [<img src="https://img.shields.io/badge/apandalima-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/apandalima)
-[<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/vitoriasemacento)
+[<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/apandalima)
+<!--[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/apandalima)-->
 
-Olá me chamo Amanda tenho 22 anos, sou Técnica em Informática formado pelo Instituto Federal de Sergipe (IFS) e sou estudante do curso de Ciência da Computação pela Universidade Federal de Sergipe (UFS). 
 
-Atuei por 1 ano e meio como tecnica de informatica pelo IFS em bolsa de estudos (PBIEX) com atualização de site e auxilio ao setor administrativo. 
+Olá me chamo Amanda tenho 23 anos, sou Técnica em Informática formado pelo Instituto Federal de Sergipe (IFS) e sou estudante do curso de Ciência da Computação pela Universidade Federal de Sergipe (UFS). 
+
+Sou tecnica de informatica pelo IFS em bolsa de estudos (PBIEX) com atualização de site, coleta de dados e auxilio ao setor administrativo. 
 Atualmente faço estágio de desevolvedora na prefeitura de São Cristóvão
+
+## **GitHub Stats**
+
+<div align="center"><br>
+    <a href="https://github.com/apandalima">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apandalima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apandalima&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
+
+<br>
+
+ <!--  ![Snake animation](https://github.com/apandalima/apandalima/blob/output/github-contribution-grid-snake.svg)
 	
  <!--  <div  align="center">
   <a href="https://github.com/apandalima">
