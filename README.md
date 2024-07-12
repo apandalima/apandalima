@@ -11,7 +11,8 @@
 Olá me chamo Amanda tenho 23 anos, sou Técnica em Informática formado pelo Instituto Federal de Sergipe (IFS) e sou estudante do curso de Ciência da Computação pela Universidade Federal de Sergipe (UFS). 
 
 Sou tecnica de informatica pelo IFS em bolsa de estudos (PBIEX) com atualização de site, coleta de dados e auxilio ao setor administrativo. 
-Atualmente faço estágio de desevolvedora na prefeitura de São Cristóvão
+Atuei como desenvolvedora com laravel na prefeitura de São Cristóvão, 2021 - 2023.
+Atualmente faço estágio de analista de dados na Secretária da Educação do Estado de Sergipe.
 
 ## **GitHub Stats**
 
