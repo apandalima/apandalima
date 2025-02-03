@@ -8,7 +8,7 @@
 <!--[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/apandalima)-->
 
 
-Olá me chamo Amanda tenho 23 anos, sou Técnica em Informática formado pelo Instituto Federal de Sergipe (IFS) e sou estudante do curso de Ciência da Computação pela Universidade Federal de Sergipe (UFS). 
+Olá me chamo Amanda tenho 24 anos, sou Técnica em Informática formado pelo Instituto Federal de Sergipe (IFS) e sou estudante do curso de Ciência da Computação pela Universidade Federal de Sergipe (UFS). 
 
 Sou tecnica de informatica pelo IFS em bolsa de estudos (PBIEX) com atualização de site, coleta de dados e auxilio ao setor administrativo. 
 Atuei como desenvolvedora com laravel na prefeitura de São Cristóvão, 2021 - 2023.
